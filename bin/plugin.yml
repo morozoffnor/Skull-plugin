@@ -1,0 +1,7 @@
+main: ml.govnoed.Skull.Main
+name: Skull
+version: 1.0
+author: morozoff
+
+commands:
+  skull: 
